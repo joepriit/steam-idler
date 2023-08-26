@@ -1,0 +1,9 @@
+{
+  "name": "steam-idler",
+  "version": "1.0.0",
+  "description": "Node.js script for idling a Steam game",
+  "dependencies": {
+    "steam-user": "4.18.0",
+    "steam-totp": "2.1.1"
+  }
+}
